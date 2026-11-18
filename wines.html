@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Taoudi's List - Wines</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav class="navigation">
+        <a href="index.html" class="nav-link">Cocktails</a>
+        <a href="wines.html" class="nav-link active">Wines</a>
+    </nav>
+
+    <header>
+        <h1>Vogue Taoudi's List</h1>
+        <p>Vogue Hotel Bar Wine Library</p>
+    </header>
+
+    <main>
+
+        <div class="search-container">
+            <input
+                type="search"
+                id="search-bar"
+                placeholder="Search a wine..."
+                autocomplete="off"
+            >
+        </div>
+
+        <div id="cocktail-container"></div>
+
+        <p id="no-results" hidden>No wine found.</p>
+
+    </main>
+
+    <dialog id="cocktail-details">
+
+        <button id="close-details" aria-label="Close">×</button>
+
+        <img id="cocktail-image" src="" alt="">
+
+        <h2 id="cocktail-name"></h2>
+        <p id="cocktail-category"></p>
+
+        <h3>Wine Information</h3>
+        <ul id="cocktail-ingredients"></ul>
+
+        <h3>Tasting Notes</h3>
+        <p id="cocktail-method"></p>
+
+    </dialog>
+
+    <script src="wines.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>The Cocktail Library</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav class="navigation">
+    <a href="index.html" class="nav-link active">Cocktails</a>
+    <a href="wines.html" class="nav-link">Wines</a>
+</nav>
+
+    <header>
+        <h1>Vogue Taoudi's List</h1>
+        <p>Montreal Vogue Hotel Bar Cocktail Library</p>
+    </header>
+
+    <main>
+
+        <!-- Search bar -->
+        <div class="search-container">
+            <input
+                type="search"
+                id="search-bar"
+                placeholder="Search a cocktail..."
+                aria-label="Search a cocktail"
+                autocomplete="off"
+            >
+        </div>
+
+        <!-- Cocktail collection -->
+        <div id="cocktail-container"></div>
+
+        <!-- No results -->
+        <p id="no-results" hidden>No cocktail found.</p>
+
+    </main>
+
+    <!-- Cocktail details -->
+    <dialog id="cocktail-details">
+
+        <button id="close-details" aria-label="Close">×</button>
+
+        <img id="cocktail-image" src="" alt="">
+
+        <h2 id="cocktail-name"></h2>
+        <p id="cocktail-category"></p>
+
+        <h3>Ingredients</h3>
+        <ul id="cocktail-ingredients"></ul>
+
+        <h3>Preparation</h3>
+        <p id="cocktail-method"></p>
+
+    </dialog>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

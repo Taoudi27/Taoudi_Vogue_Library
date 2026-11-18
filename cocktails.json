@@ -1,0 +1,288 @@
+
+
+
+[
+    {
+        "name": "Mojito",
+        "category": "Rum",
+        "method": "Build in glass",
+        "ingredients": [
+            "1 oz lime juice",
+            "1 oz simple syrup",
+            "1.5 oz rum",
+            "Mint",
+            "Ice",
+            "Top with soda"
+        ],
+        "image": "images/mojito.jpg"
+    },
+    {
+        "name": "Daiquiri",
+        "category": "Rum",
+        "method": "Shake",
+        "ingredients": [
+            "1.5 oz rum",
+            "1 oz simple syrup",
+            "1 oz lime juice"
+        ],
+        "image": "images/daiquiri.jpg"
+    },
+    {
+        "name": "Margarita",
+        "category": "Tequila",
+        "method": "Shake - Salt rim",
+        "ingredients": [
+            "1.5 oz blanco tequila",
+            "1 oz triple sec",
+            "1 oz simple syrup",
+            "1.5 oz lime juice"
+        ],
+        "image": "images/margarita.jpg"
+    },
+    {
+        "name": "Paloma",
+        "category": "Tequila",
+        "method": "Build in glass",
+        "ingredients": [
+            "1.5 oz tequila",
+            "2 oz grapefruit juice",
+            "0.25 oz lime juice",
+            "Top with soda"
+        ],
+        "image": "images/paloma.jpg"
+    },
+    {
+        "name": "Tequila Sunrise",
+        "category": "Tequila",
+        "method": "Build in glass",
+        "ingredients": [
+            "1.5 oz tequila",
+            "Ice",
+            "Fill with orange juice",
+            "Grenadine"
+        ],
+        "image": "images/tequila-sunrise.jpg"
+    },
+    {
+        "name": "Moscow Mule",
+        "category": "Vodka",
+        "method": "Build in glass",
+        "ingredients": [
+            "1.5 oz vodka",
+            "0.75 oz lime juice",
+            "Fill with ginger beer"
+        ],
+        "image": "images/moscow-mule.jpg"
+    },
+    {
+        "name": "Bloody Caesar",
+        "category": "Vodka",
+        "method": "Build in glass - Caesar rim",
+        "ingredients": [
+            "1.5 oz vodka",
+            "Tabasco",
+            "Worcestershire sauce",
+            "Clamato"
+        ],
+        "image": "images/bloody-caesar.jpg"
+    },
+    {
+        "name": "Cosmopolitan",
+        "category": "Vodka",
+        "method": "Shake",
+        "ingredients": [
+            "1.5 oz vodka",
+            "0.5 oz triple sec",
+            "0.75 oz lime juice",
+            "0.5 oz cranberry juice",
+            "0.75 oz simple syrup"
+        ],
+        "image": "images/cosmopolitan.jpg"
+    },
+    {
+        "name": "Martini",
+        "category": "Gin / Vodka",
+        "method": "Stir in mixing glass",
+        "ingredients": [
+            "2 oz vodka or gin",
+            "0.5 oz vermouth",
+            "Extra dry: 0.25 oz vermouth",
+            "Bone dry: no vermouth",
+            "Dirty: add 0.5 oz olive brine",
+            "Very dirty: add 1 oz olive brine"
+        ],
+        "image": "images/martini.jpg"
+    },
+    {
+        "name": "Espresso Martini",
+        "category": "Vodka",
+        "method": "Shake",
+        "ingredients": [
+            "1 oz espresso",
+            "0.5 oz simple syrup",
+            "1 oz Kahlua",
+            "1.5 oz vodka"
+        ],
+        "image": "images/espresso-martini.jpg"
+    },
+    {
+        "name": "Negroni",
+        "category": "Gin",
+        "method": "Stir in mixing glass",
+        "ingredients": [
+            "1 oz gin",
+            "1 oz red vermouth",
+            "1 oz Campari"
+        ],
+        "image": "images/negroni.jpg"
+    },
+    {
+        "name": "Long Island Iced Tea",
+        "category": "Mixed",
+        "method": "Build in glass",
+        "ingredients": [
+            "0.5 oz vodka",
+            "0.5 oz rum",
+            "0.5 oz gin",
+            "0.5 oz tequila",
+            "0.5 oz triple sec or Cointreau",
+            "Splash of lime juice",
+            "Fill with Coke"
+        ],
+        "image": "images/long-island.jpg"
+    },
+    {
+        "name": "Old Fashioned",
+        "category": "Whiskey",
+        "method": "Stir in mixing glass",
+        "ingredients": [
+            "2 oz whiskey",
+            "0.5 oz simple syrup",
+            "3-4 dashes Angostura bitters"
+        ],
+        "image": "images/old-fashioned.jpg"
+    },
+    {
+        "name": "Sour",
+        "category": "Whiskey / Amaretto",
+        "method": "Shake - Double strain",
+        "ingredients": [
+            "2 oz whiskey or amaretto",
+            "1 oz simple syrup",
+            "1 oz lemon juice",
+            "0.5 oz egg white"
+        ],
+        "image": "images/sour.jpg"
+    },
+    {
+        "name": "Manhattan",
+        "category": "Whiskey",
+        "method": "Stir in mixing glass",
+        "ingredients": [
+            "2 oz whiskey",
+            "1 oz sweet vermouth",
+            "3-4 dashes Angostura bitters"
+        ],
+        "image": "images/manhattan.jpg"
+    },
+    {
+        "name": "Lychee Martini",
+        "category": "Vodka",
+        "method": "Shake",
+        "ingredients": [
+            "1 oz Soho",
+            "1.5 oz vodka",
+            "0.75 oz lime juice",
+            "0.75 oz simple syrup",
+            "Lychee juice if available"
+        ],
+        "image": "images/lychee-martini.jpg"
+    },
+    {
+        "name": "Paper Plane",
+        "category": "Whiskey",
+        "method": "Shake - Double strain",
+        "ingredients": [
+            "0.75 oz Crown Royal",
+            "0.75 oz Aperol",
+            "0.75 oz lemon juice",
+            "0.75 oz Amaro Nonino"
+        ],
+        "image": "images/paper-plane.jpg"
+    },
+    {
+        "name": "Last Word",
+        "category": "Gin",
+        "method": "Shake",
+        "ingredients": [
+            "0.75 oz Green Chartreuse",
+            "0.75 oz gin",
+            "0.75 oz maraschino liqueur",
+            "0.75 oz lime juice"
+        ],
+        "image": "images/last-word.jpg"
+    },
+    {
+        "name": "Naked and Famous",
+        "category": "Mezcal",
+        "method": "Shake",
+        "ingredients": [
+            "0.75 oz mezcal",
+            "0.75 oz Yellow Chartreuse",
+            "0.75 oz Aperol",
+            "0.75 oz lime juice"
+        ],
+        "image": "images/naked-and-famous.jpg"
+    },
+
+    {
+    "name": "Vesper Martini",
+    "category": "Gin / Vodka",
+    "method": "Shake - Double strain",
+    "ingredients": [
+        "2.25 oz gin",
+        "0.75 oz vodka",
+        "0.375 oz Lillet Blanc"
+    ],
+    "image": "images/vesper-martini.jpg"
+},
+{
+    "name": "French 75",
+    "category": "Gin",
+    "method": "Shake - Top with Champagne",
+    "ingredients": [
+        "1 oz gin",
+        "0.5 oz lemon juice",
+        "0.5 oz simple syrup",
+        "Top with Champagne"
+    ],
+    "image": "images/french-75.jpg"
+},
+{
+    "name": "French Martini",
+    "category": "Vodka",
+    "method": "Shake - Double strain",
+    "ingredients": [
+        "1.5 oz vodka",
+        "0.5 oz Chambord",
+        "1.5 oz pineapple juice"
+    ],
+    "image": "images/french-martini.jpg"
+},
+{
+    "name": "Passion Fruit Martini",
+    "category": "Vodka",
+    "method": "Shake - Double strain",
+    "ingredients": [
+        "1.5 oz vanilla vodka",
+        "0.5 oz Passoa",
+        "1 oz passion fruit puree",
+        "0.5 oz lime juice",
+        "0.5 oz vanilla syrup",
+        "Prosecco on the side"
+    ],
+    "image": "images/passion-fruit-martini.jpg"
+}
+    
+]
+
