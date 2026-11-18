@@ -2,7 +2,7 @@
 When I started working as a bartender at a high-end hotel, I decided to create a digital cocktail and wine library to help myself and my future colleagues remember recipes and ingredients. I'm constantly updating it as I expand my knowledge of mixology and learn new cocktails at work.
 
 
-Project structure:
+Project structure: https://taoudi27.github.io/Taoudi_Vogue_Library/
 
 JSON: A database of all the cocktails and wines i make and learn. I update it whenever I discover or prepare a new cocktail at work.
 
