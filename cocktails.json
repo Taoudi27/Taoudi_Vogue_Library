@@ -283,6 +283,267 @@
     ],
     "image": "images/passion-fruit-martini.jpg"
 }
+,
+{
+    "name": "Boulevardier",
+    "category": "Whiskey Cocktail",
+    "ingredients": [
+        "1.5 oz Bourbon",
+        "1 oz Campari",
+        "1 oz Sweet Vermouth",
+        "Orange peel"
+    ],
+    "method": "Stir all ingredients with ice. Strain into a rocks glass over a large ice cube. Garnish with an orange peel.",
+    "image": "images/boulevardier.jpg"
+},
+{
+    "name": "Kir",
+    "category": "Wine Cocktail",
+    "ingredients": [
+        "0.5 oz Crème de Cassis",
+        "4.5 oz Dry White Wine"
+    ],
+    "method": "Pour the crème de cassis into a wine glass and top with chilled dry white wine.",
+    "image": "images/kir.jpg"
+
+},
+
+{
+    "name": "Spicy Margarita",
+    "category": "Tequila Cocktail",
+    "ingredients": [
+        "2 oz Blanco Tequila",
+        "1 oz Cointreau",
+        "1 oz Fresh Lime Juice",
+        "0.5 oz Agave Syrup",
+        "2-3 Jalapeño Slices",
+        "Tajín Rim",
+        "Lime Wheel"
+    ],
+    "method": "Gently muddle the jalapeño slices in a shaker. Add the remaining liquid ingredients and ice. Shake well and double strain into a Tajín-rimmed rocks glass filled with ice. Garnish with jalapeño slices and a lime wheel.",
+    "image": "images/spicy_margarita.jpg"
+}
+,
+{
+    "name": "Aperol Spritz",
+    "category": "Aperitif Cocktail",
+    "ingredients": [
+        "3 oz Prosecco",
+        "2 oz Aperol",
+        "1 oz Soda Water",
+        "Orange Slice"
+    ],
+    "method": "Build in a wine glass filled with ice. Stir gently and garnish with an orange slice.",
+    "image": "images/aperol_spritz.jpg"
+},
+{
+    "name": "Tom Collins",
+    "category": "Gin Cocktail",
+    "ingredients": [
+        "2 oz Gin",
+        "1 oz Fresh Lemon Juice",
+        "0.5 oz Simple Syrup",
+        "Soda Water",
+        "Lemon Slice"
+    ],
+    "method": "Shake gin, lemon juice and syrup with ice. Strain into a Collins glass filled with ice. Top with soda water and garnish.",
+    "image": "images/tom_collins.jpg"
+},
+{
+    "name": "White Russian",
+    "category": "Vodka Cocktail",
+    "ingredients": [
+        "2 oz Vodka",
+        "1 oz Coffee Liqueur",
+        "1 oz Heavy Cream"
+    ],
+    "method": "Pour vodka and coffee liqueur into a rocks glass filled with ice. Add cream and stir gently.",
+    "image": "images/white_russian.jpg"
+},
+{
+    "name": "Kir Royal",
+    "category": "Champagne Cocktail",
+    "ingredients": [
+        "0.5 oz Creme de Cassis",
+        "4.5 oz Champagne"
+    ],
+    "method": "Pour creme de cassis into a champagne flute and top with chilled champagne.",
+    "image": "images/kir_royal.jpg"
+},
+{
+    "name": "Sidecar",
+    "category": "Cognac Cocktail",
+    "ingredients": [
+        "2 oz Cognac",
+        "0.75 oz Cointreau",
+        "0.75 oz Fresh Lemon Juice",
+        "Optional Sugar Rim"
+    ],
+    "method": "Shake with ice and double strain into a chilled coupe glass.",
+    "image": "images/sidecar.jpg"
+},
+{
+    "name": "Gimlet",
+    "category": "Gin Cocktail",
+    "ingredients": [
+        "2 oz Gin",
+        "0.75 oz Fresh Lime Juice",
+        "0.75 oz Simple Syrup",
+        "Lime Wheel"
+    ],
+    "method": "Shake with ice and double strain into a chilled coupe glass. Garnish with a lime wheel.",
+    "image": "images/gimlet.jpg"
+},
+{
+    "name": "Mai Tai",
+    "category": "Rum Cocktail",
+    "ingredients": [
+        "2 oz Aged Rum",
+        "0.5 oz Orange Curacao",
+        "0.75 oz Fresh Lime Juice",
+        "0.5 oz Orgeat Syrup",
+        "0.25 oz Simple Syrup",
+        "Mint Sprig",
+        "Lime Shell"
+    ],
+    "method": "Shake with ice and pour into a rocks glass filled with crushed ice. Garnish with mint and a lime shell.",
+    "image": "images/mai_tai.jpg"
+},
+{
+    "name": "Dark 'n' Stormy",
+    "category": "Rum Cocktail",
+    "ingredients": [
+        "2 oz Goslings Black Seal Rum",
+        "4 oz Ginger Beer",
+        "Lime Wedge"
+    ],
+    "method": "Fill a highball glass with ice and ginger beer. Float the dark rum on top and garnish with lime.",
+    "image": "images/dark_n_stormy.jpg"
+},
+{
+    "name": "Pisco Sour",
+    "category": "Pisco Cocktail",
+    "ingredients": [
+        "2 oz Pisco",
+        "1 oz Fresh Lime Juice",
+        "0.75 oz Simple Syrup",
+        "0.75 oz Egg White",
+        "Angostura Bitters"
+    ],
+    "method": "Dry shake, then shake again with ice. Double strain into a chilled coupe glass and add a few drops of bitters.",
+    "image": "images/pisco_sour.jpg"
+},
+{
+    "name": "Hugo Spritz",
+    "category": "Aperitif Cocktail",
+    "ingredients": [
+        "1 oz St-Germain",
+        "4 oz Prosecco",
+        "1 oz Soda Water",
+        "Fresh Mint",
+        "Lime Wheel"
+    ],
+    "method": "Build in a wine glass filled with ice. Stir gently and garnish with mint and lime.",
+    "image": "images/hugo_spritz.jpg"
+},
+{
+    "name": "Black Russian",
+    "category": "Vodka Cocktail",
+    "ingredients": [
+        "2 oz Vodka",
+        "1 oz Coffee Liqueur"
+    ],
+    "method": "Build in a rocks glass filled with ice and stir gently.",
+    "image": "images/black_russian.jpg"
+},
+{
+    "name": "Penicillin",
+    "category": "Whiskey Cocktail",
+    "ingredients": [
+        "2 oz Blended Scotch",
+        "0.75 oz Fresh Lemon Juice",
+        "0.75 oz Honey-Ginger Syrup",
+        "0.25 oz Islay Scotch",
+        "Candied Ginger"
+    ],
+    "method": "Shake blended Scotch, lemon juice and syrup with ice. Strain into a rocks glass over ice. Float Islay Scotch on top and garnish.",
+    "image": "images/penicillin.jpg"
+},
+{
+    "name": "Sazerac",
+    "category": "Whiskey Cocktail",
+    "ingredients": [
+        "2 oz Rye Whiskey",
+        "0.25 oz Simple Syrup",
+        "3 Dashes Peychaud's Bitters",
+        "Absinthe Rinse",
+        "Lemon Peel"
+    ],
+    "method": "Rinse a chilled rocks glass with absinthe and discard the excess. Stir remaining liquid ingredients with ice and strain into the glass without ice. Express lemon peel over the drink.",
+    "image": "images/sazerac.jpg"
+},
+
+{
+    "name": "Aviation",
+    "category": "Gin Cocktail",
+    "ingredients": [
+        "2 oz Gin",
+        "0.5 oz Maraschino Liqueur",
+        "0.25 oz Creme de Violette",
+        "0.75 oz Fresh Lemon Juice",
+        "Maraschino Cherry"
+    ],
+    "method": "Shake with ice and double strain into a chilled coupe glass. Garnish with a cherry.",
+    "image": "images/aviation.jpg"
+},
+{
+    "name": "Sex on the Beach",
+    "category": "Vodka Cocktail",
+    "ingredients": [
+        "1.5 oz Vodka",
+        "0.5 oz Peach Schnapps",
+        "1.5 oz Orange Juice",
+        "1.5 oz Cranberry Juice",
+        "Orange Slice"
+    ],
+    "method": "Build in a highball glass filled with ice. Stir gently and garnish with an orange slice.",
+    "image": "images/sex_on_the_beach.jpg"
+},
+{
+    "name": "Bellini",
+    "category": "Sparkling Wine Cocktail",
+    "ingredients": [
+        "2 oz White Peach Puree",
+        "4 oz Prosecco"
+    ],
+    "method": "Pour peach puree into a chilled champagne flute. Slowly add Prosecco and stir gently.",
+    "image": "images/bellini.jpg"
+},
+{
+    "name": "Mimosa",
+    "category": "Champagne Cocktail",
+    "ingredients": [
+        "2.5 oz Fresh Orange Juice",
+        "2.5 oz Champagne"
+    ],
+    "method": "Pour chilled orange juice into a champagne flute and top with champagne.",
+    "image": "images/mimosa.jpg"
+}
+,
+{
+    "name": "Baileys Martini",
+    "category": "Vodka",
+    "ingredients": [
+        "2 oz Baileys Irish Cream",
+        "1 oz Vodka",
+        "0.5 oz Chocolate Liqueur",
+        "Chocolate syrup",
+        "Coffee beans"
+    ],
+    "method": "Shake Baileys, vodka and chocolate liqueur with ice. Strain into a chilled martini glass decorated with chocolate syrup. Garnish with three coffee beans.",
+    "image": "images/baileys_martini.png"
+}
+
     
 ]
 
