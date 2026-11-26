@@ -22,7 +22,27 @@ async function loadCocktails() {
 
         cocktails = await response.json();
 
-        cocktails.sort((a, b) => a.name.localeCompare(b.name));
+        const glassOrder = [
+    "Martini",
+    "Nick & Nora",
+    "Coupe",
+    "Rocks",
+    "Highball",
+    "Wine Glass",
+    "Champagne Flute"
+];
+
+cocktails.sort((a, b) => {
+    const indexA = glassOrder.includes(a.glass)
+        ? glassOrder.indexOf(a.glass)
+        : glassOrder.length;
+
+    const indexB = glassOrder.includes(b.glass)
+        ? glassOrder.indexOf(b.glass)
+        : glassOrder.length;
+
+    return indexA - indexB || a.name.localeCompare(b.name);
+});
 
         displayCocktails(cocktails);
 
